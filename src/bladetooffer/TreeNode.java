@@ -12,6 +12,10 @@ public class TreeNode {
     TreeNode right;
     TreeNode(int x) { val = x; }
 
+    public TreeNode() {
+
+    }
+
     public static void main(String[] args) {
 
 
